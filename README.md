@@ -2,7 +2,9 @@
 
 ## 專案介紹
 eOrgan (Electronic Organ) 是一個基於8051微處理器的簡易電子琴系統。
-使用者可以透過 4x4 keyboard 彈奏音符，並輸出聲音，七段顯示器提供錄音與播放狀態指示。  
+使用者可以透過 4x4 keyboard 彈奏音符，並輸出聲音，七段顯示器提供錄音與播放狀態指示。
+
+![8051](https://github.com/user-attachments/assets/a64a1744-7585-4b2d-81c7-f3b79c5f16db)
 
 ## 功能
 - 音符彈奏：按鍵對應不同音高 (C, C#, D, D#, E, F, F#, G, G#, A, A#, B, B, high C, high D)
